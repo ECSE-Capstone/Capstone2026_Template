@@ -1,5 +1,5 @@
 # Capstone 2026 Template UoA
-This document serves as the official framework for the Capstone Project GitHub template repository at the University of Auckland. A new repository can be created from this template by selecting the “Use this template” option at the top of the page.
+This document serves as the official framework for the Capstone Project GitHub template repository at the University of Auckland. 
 
 **Kindly replace your project README file with this document.**
 
